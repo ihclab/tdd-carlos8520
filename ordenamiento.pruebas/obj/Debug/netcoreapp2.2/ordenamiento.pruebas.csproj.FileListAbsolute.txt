@@ -1,0 +1,17 @@
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.csprojAssemblyReference.cache
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.csproj.CoreCompileInputs.cache
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.AssemblyInfoInputs.cache
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.AssemblyInfo.cs
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.deps.json
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.runtimeconfig.json
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.runtimeconfig.dev.json
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.dll
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pruebas.pdb
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.dll
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\bin\Debug\netcoreapp2.2\ordenamiento.pdb
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.csproj.CopyComplete
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.dll
+C:\Users\kabcd\Desktop\tdd-carlos8520\ordenamiento.pruebas\obj\Debug\netcoreapp2.2\ordenamiento.pruebas.pdb

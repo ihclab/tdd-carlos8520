@@ -1,14 +1,21 @@
 ﻿using System;
-using System.Collection.Generic;
-using System.text;
+using System.Collections.Generic;
+using System.Text;
 
-namespace ordenamiento
+namespace Ordenamiento
 {
-    e ordenamiento;
     public class Burbuja
     {
-        public void ordenar(int [] arr) {
+        public void Ordenar(int [] arr) {
             throw new NotImplementedException("Crear los casos de prueba");
+
+            for(int i = 0; i < arr.Length - 1; i++) {
+                if(arr[i] > arr[i + 1]) {
+                    int aux = arr[i];
+                    arr[i] = arr[i+1];
+                    arr[i + 1] = aux;
+                }
+            }
         }
     }
 }
